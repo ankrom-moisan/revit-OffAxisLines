@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>OffAxis</Text>
+    <Description>Fix off axis area boundary lines</Description>
+    <Assembly>OffAxis.dll</Assembly>
+    <FullClassName>OffAxis.Command</FullClassName>
+    <ClientId>08dc5b4a-6196-421e-aaac-780df75d77f6</ClientId>
+    <VendorId>AMAA</VendorId>
+    <VendorDescription>Ryan T. McCullough</VendorDescription>
+  </AddIn>
+</RevitAddIns>

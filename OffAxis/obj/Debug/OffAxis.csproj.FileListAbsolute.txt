@@ -1,0 +1,12 @@
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\bin\Debug\OffAxis.addin
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\bin\Debug\OffAxis.dll
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\bin\Debug\OffAxis.pdb
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\obj\Debug\OffAxis.csprojResolveAssemblyReference.cache
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\obj\Debug\WPF\MainWindow.baml
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\obj\Debug\WPF\MainWindow.g.cs
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\obj\Debug\OffAxis_MarkupCompile.cache
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\obj\Debug\OffAxis.g.resources
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\obj\Debug\OffAxis.Properties.Resources.resources
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\obj\Debug\OffAxis.csproj.GenerateResource.Cache
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\obj\Debug\OffAxis.dll
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\OffAxisFix\OffAxis\obj\Debug\OffAxis.pdb

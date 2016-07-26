@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command OffAxis</Text>
+    <Description>Some description for OffAxis</Description>
+    <Assembly>OffAxis.dll</Assembly>
+    <FullClassName>OffAxis.Command</FullClassName>
+    <ClientId>08dc5b4a-6196-421e-aaac-780df75d77f6</ClientId>
+    <VendorId>AMAA</VendorId>
+    <VendorDescription>Ryan T. McCullough</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application OffAxis</Name>
+    <Assembly>OffAxis.dll</Assembly>
+    <FullClassName>OffAxis.App</FullClassName>
+    <ClientId>912465df-0b0a-44d6-b36f-0a226b6d4f74</ClientId>
+    <VendorId>AMAA</VendorId>
+    <VendorDescription>Ryan T. McCullough</VendorDescription>
+  </AddIn>
+</RevitAddIns>
